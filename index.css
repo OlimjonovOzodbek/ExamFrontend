@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+}
+.description{
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(62, 100, 182);
+}
+.dtext{
+    font-size: 17px;
+    color: aliceblue;
+    padding-top: 15px;
+}
+.container{
+    margin: 0;
+}
+.description2{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+.googleimg{
+    height: 30px;
+    width: 30px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.txts{
+    display: flex;
+    font-size: 7px;
+    font-family: Arial;
+    gap: 21px;
+    padding-left: 30px;
+    padding-top: 15px;
+    color: rgb(34, 29, 29);
+}
+.icons{
+    gap: 20px;
+    font-size: 18px;
+    padding-left: 420px;
+    padding-top: 15px;
+    display: flex;
+}
+main{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.txt2{
+    font-size: 40px;
+    color: black;
+    padding-top: 100px;
+    padding-left: 90px;
+}
+.txt3{
+    font-size: 7px;
+    color: black;
+    padding-top: 20px;
+}
+.btnandtxt{
+    display: flex;
+    padding-top: 30px;
+}
+.btntxt{
+    font-size: small;
+    font-size: 15px;
+}
+.btn2{
+    font-size: 17px;
+    padding-left: 20px;
+}
+.img{
+    width: 100%;
+    height: 550px;
+    background-image: url('images/IMAGEq.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body{
+    height: 600px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+.oq-fon{
+    height: 200px;
+    width: 100%;
+}
+.upper-text{
+    padding-top: 20px;
+    text-align: center;
+}
+.body-img{
+    display: flex;
+    gap: 10px;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+.body-txt{
+    font-size: 10px;
+    padding-left: 60px;
+    display: flex;
+    gap: 140px;
+}
+.pixel-7{
+    font-size: 20px;
+    padding-left: 50px;
+}
+.air-buds{
+    font-size: 20px;
+    padding-left: 20px;
+}
+.body2{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    
+    margin-bottom: 120px;
+}
+.body2-img{
+    height: 616px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.body2-txt{
+    font-size: 14px;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.body2-txt2{
+    font-size: 7px;
+    margin-top: 15px;
+}
+.learn{
+    font-size: 15px;
+    margin-top: 15px;
+    color: blue;
+    padding-top: 15px;
+}
+.body3{
+    height: 500px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.three-boxes{
+    float: left;
+    width: 33%;
+}
+
+.three-boxes div {
+    margin: 5px;
+}
+
+.box{
+    padding: 15px;
+    height: 692px;
+    background-color: #E9E3DB;
+    border-radius: 20px;
+}
+.b1{
+    height: 450px;
+    margin-left: 10px;
+}
+.b1-text{
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 140px;
+}
+.b1-text2{
+    font-size: 30px;
+    margin-left: 95px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b1-text3{
+    font-size: 30px;
+    margin-left: 95px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.bt-btn{
+    height: 30px;
+    width: 90px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.b1-img{
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 25px;
+}
+
+.b2-text{
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 120px;
+}
+.b2-text2{
+    font-size: 30px;
+    margin-left: 95px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b2-text3{
+    font-size: 40px;
+    margin-left: 160px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b2-btn{
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.b3-text{
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.b3-text2{
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b3-text3{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b3-btn{
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
