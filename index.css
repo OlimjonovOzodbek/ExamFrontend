@@ -2,6 +2,12 @@
 *{
     margin: 0;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .description{
     height: 40px;
     width: 100%;
@@ -12,9 +18,6 @@
     font-size: 17px;
     color: aliceblue;
     padding-top: 15px;
-}
-.container{
-    margin: 0;
 }
 .description2{
     height: 50px;
@@ -194,7 +197,6 @@ main{
     margin-top: 80px;
     margin-left: 25px;
 }
-
 .b2-text{
     font-size: 15px;
     margin-top: 25px;
@@ -245,4 +247,115 @@ main{
     width: 90px;
     margin-top: 20px;
     margin-left: 150px;
+}
+
+.b4-text{
+    padding-top: 30px;
+    font-size: 15px;
+    margin-left: 270px;
+}
+.b4-text2{
+    font-size: 30px;
+    margin-left: 205px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b4-text3{
+    font-size: 40px;
+    margin-left: 170px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b4-btn{
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+.b4-img{
+    padding-left: 15px;
+    margin-top: 30px;
+    height: 450px;
+    width: 580px;
+    margin-left: 10px;
+}
+
+.body4{
+    box-sizing: border-box;
+    height: 700px;
+    width: 100%;
+    padding: 1px;
+    align-items: center;
+}
+
+.col-6{
+    float: left;
+    width: 50%;
+}
+
+.col-6 .pics1{
+    margin: 10px;
+    height: 704px;
+    background-color: #D6E2DB;
+    border-radius: 50px;
+}
+
+.col-6 .pics2{
+    margin: 10px;
+    height: 704px;
+    background-color: #EFDDCD;
+    border-radius: 50px;
+}
+
+.b5-text{
+    padding-top: 30px;
+    font-size: 15px;
+    margin-left: 290px;
+}
+.b5-text2{
+    font-size: 30px;
+    margin-left: 255px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b5-text3{
+    font-size: 40px;
+    margin-left: 190px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b5-text4{
+    font-size: 40px;
+    margin-left: 210px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b5-btn{
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
+    margin-left: 280px;
+}
+.b5-img{
+    padding-left: 15px;
+    margin-top: 18px;
+    height: 400px;
+    width: 580px;
+    margin-left: 10px;
+}
+.body5{
+    height: 300px;
+    width: 100%;
+    background-color: grey;
+}
+.dtxt{
+    justify-content: center;
+    display: flex;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
 }
