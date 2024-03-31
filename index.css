@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
 }
@@ -119,7 +120,6 @@ main{
     height: 600px;
     width: 100%;
     display: flex;
-    
     margin-bottom: 120px;
 }
 .body2-img{
@@ -351,11 +351,92 @@ main{
 .body5{
     height: 300px;
     width: 100%;
-    background-color: grey;
 }
 .dtxt{
+    padding-top: 10px;
     justify-content: center;
     display: flex;
     font-family: "Raleway", sans-serif;
     font-weight: 300;
+}
+.pics{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 30px;
+}
+.imgtxt{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 190px;
+    font-size: 10px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b6-btn{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.col-6 .pics3{
+    margin: 10px;
+    height: 704px;
+    background-color: #F3F2F1;
+    border-radius: 50px;
+}
+.col-6 .pics4{
+    margin: 10px;
+    height: 704px;
+    background-color: #E7EBEE;
+    border-radius: 50px;
+}
+
+.b6-text2{
+    font-size: 30px;
+    margin-left: 230px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b6-text3{
+    font-size: 40px;
+    margin-left: 230px;
+    margin-top: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+}
+.b6-btn{
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 220px;
+}
+.b6-img{
+    padding-left: 35px;
+    margin-top: 78px;
+    height: 400px;
+    width: 580px;
+    margin-left: 10px;
+}
+
+.body7{
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+.body7-img{
+    height: 516px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.texts{
+    margin-top: 200px;
+    font-family: "Libre Franklin", sans-serif;
+}
+.b7-btn{
+    height: 30px;
+    width: 90px;
+    margin-top: 20px;
 }
