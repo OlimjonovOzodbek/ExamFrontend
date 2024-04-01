@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
 *{
     margin: 0;
 }
@@ -480,7 +481,19 @@ footer{
 .footer-txt{
     padding-left: 30px;
     padding-top: 15px;
-    font-size: 10px;
+}
+.footer-pic{
+    margin-left: 30px;
     display: flex;
-    gap: 15px;
+    gap: 10px;
+    padding-top: 10px;
+}
+.foot-txt{
+    margin-left: 180px;
+    display: flex;
+    font-size: 6px;
+    gap: 10px;
+    width: 500px;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 100;
 }
