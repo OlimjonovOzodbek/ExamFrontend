@@ -444,3 +444,43 @@ main{
     height: 400px;
     width: 100%;
 }
+
+footer{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.first-txt{
+    text-align: left;
+    padding-top: 120px;
+    gap: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 800px;
+    font-size: 7px;
+    font-family: "Libre Franklin", sans-serif;
+}
+.second-txt{
+    text-align: left;
+    padding-top: 120px;
+    gap: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+    gap: 15px;
+    font-size: 7px;
+    font-family: "Libre Franklin", sans-serif;
+}
+.down-footer{
+    border-top: 1px solid black;
+    height: 60px;
+    width: 100%;
+}
+.footer-txt{
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 10px;
+    display: flex;
+    gap: 15px;
+}
