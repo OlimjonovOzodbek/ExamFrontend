@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+html{
+    scroll-behavior: smooth;
+}
 *{
     margin: 0;
 }
@@ -20,6 +23,7 @@
     font-size: 17px;
     color: aliceblue;
     padding-top: 15px;
+    font-family: "Raleway", sans-serif;
 }
 .description2{
     height: 50px;
@@ -41,6 +45,8 @@
     padding-left: 30px;
     padding-top: 15px;
     color: rgb(34, 29, 29);
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
 }
 .icons{
     gap: 20px;
@@ -59,19 +65,23 @@ main{
     color: black;
     padding-top: 100px;
     padding-left: 90px;
+    font-family: "Raleway", sans-serif;
 }
 .txt3{
     font-size: 7px;
     color: black;
     padding-top: 20px;
+    font-family: "Raleway", sans-serif;
 }
 .btnandtxt{
     display: flex;
     padding-top: 30px;
+    font-family: "Raleway", sans-serif;
 }
 .btntxt{
     font-size: small;
     font-size: 15px;
+    font-family: "Raleway", sans-serif;
 }
 .btn2{
     font-size: 17px;
@@ -96,6 +106,7 @@ main{
 .upper-text{
     padding-top: 20px;
     text-align: center;
+    font-family: "Raleway", sans-serif;
 }
 .body-img{
     display: flex;
@@ -108,14 +119,17 @@ main{
     padding-left: 60px;
     display: flex;
     gap: 140px;
+    font-family: "Raleway", sans-serif;
 }
 .pixel-7{
     font-size: 20px;
     padding-left: 50px;
+    font-family: "Raleway", sans-serif;
 }
 .air-buds{
     font-size: 20px;
     padding-left: 20px;
+    font-family: "Raleway", sans-serif;
 }
 .body2{
     height: 600px;
@@ -132,10 +146,12 @@ main{
     font-size: 14px;
     padding-top: 200px;
     padding-left: 100px;
+    font-family: "Raleway", sans-serif;
 }
 .body2-txt2{
     font-size: 7px;
     margin-top: 15px;
+    font-family: "Raleway", sans-serif;
 }
 .learn{
     font-size: 15px;
